@@ -1,5 +1,5 @@
 var login = {
-  pokemon = "PutYourTokenHere";
+  stand = "PutYourTokenHere";
 }
 
 module.exports = login;
